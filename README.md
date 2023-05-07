@@ -1,5 +1,6 @@
 ![MasterHead](https://marketplace.canva.com/EAFSUH0EweU/1/0/1600w/canva-black-elegant-personal-linkedin-banner-eEN5zzEf5VA.jpg)
 <h1 align="center">Hi There! 👋, I'm Mert Canik</h1>
+<h3 align="center"> 📍 Based Dublin</h3>
 <h4 align="center"> I'm a data analytics enthusiast with a strong academic background in Mechanical Engineering and a Master's degree in Data Analytics. Currently, I'm working as a Community Operations Analyst, where I'm responsible for analyzing and interpreting data to identify trends and patterns that can help improve customer experience. In addition, I'm also a Market Research Data Science intern, where I'm utilizing my analytical skills to help businesses make data-driven decisions. I'm passionate about using data to understand and solve real-world problems.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://www.cdotrends.com/sites/default/files/Data%20Science.jpg">
